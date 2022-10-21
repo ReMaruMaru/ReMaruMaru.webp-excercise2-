@@ -1,0 +1,26 @@
+html{
+    background-color: rgb(239, 255, 177);
+}
+
+body{
+    background-color: beige;
+    padding: 20px 20px 20px 20px;
+}
+
+h4{
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+}
+
+h6{
+    text-align: end;
+}
+
+h4,h3{
+    color: rgb(93, 249, 197);
+}
+
+.gaiyou{
+    text-align: center;
+}
